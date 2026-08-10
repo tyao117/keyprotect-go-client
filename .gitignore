@@ -43,7 +43,7 @@ cover.*
 **/coverage.tmp
 *.coverprofile
 
-.env
+*.env
 
 # SDK generator
 .openapi-generator-ignore
