@@ -1,3 +1,10 @@
+## [0.17.4](https://github.com/IBM/keyprotect-go-client/compare/v0.17.3...v0.17.4) (2026-08-10)
+
+
+### Performance Improvements
+
+* **build:** SDK Version 1.0.0 ([#157](https://github.com/IBM/keyprotect-go-client/issues/157)) ([14c5acd](https://github.com/IBM/keyprotect-go-client/commit/14c5acd790b0249e2e325e3a2862be1b7aa0edce))
+
 ## [0.17.3](https://github.com/IBM/keyprotect-go-client/compare/v0.17.2...v0.17.3) (2026-06-30)
 
 
