@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/IBM/keyprotect-go-client/compare/v0.17.4...v1.0.0) (2026-08-10)
+
+
+### Performance Improvements
+
+* **build:** Revert 0.17.4 ([#158](https://github.com/IBM/keyprotect-go-client/issues/158)) ([333c734](https://github.com/IBM/keyprotect-go-client/commit/333c7340171221d29f1a1f794c73cc60f53e62d9))
+
+
+### BREAKING CHANGES
+
+* **build:** Reworked method signatures using autogen
+
 ## [0.17.4](https://github.com/IBM/keyprotect-go-client/compare/v0.17.3...v0.17.4) (2026-08-10)
 
 
